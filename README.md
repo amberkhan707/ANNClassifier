@@ -70,16 +70,38 @@ Then open the displayed local URL (usually http://localhost:8501/) in your brows
 
 ## 🧩 Input Features
 Feature	Description	Example
+
+
 Geography	Customer's country	France / Germany / Spain
+
+
 Gender	Male or Female	Male
+
+
 Credit Score	Credit rating of customer	600
+
+
 Age	Age of customer	35
+
+
 Tenure	Years with the bank	5
+
+
 Balance	Bank account balance	120000.00
+
+
 NumOfProducts	Number of bank products	2
+
+
 HasCrCard	Has a credit card (1=yes, 0=no)	1
+
+
 IsActiveMember	Active customer (1=yes, 0=no)	1
+
+
 EstimatedSalary	Annual salary	50000.00
+
+
 ### 📊 Output
 After clicking "🔍 Predict", the app displays:
 
